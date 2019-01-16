@@ -1,0 +1,2 @@
+# Scouting-Report
+EDDiscovery Addon
