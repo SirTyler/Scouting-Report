@@ -8,7 +8,7 @@ In order to manually install the .ACT Addon File for EDDiscovery you will need t
 
 
 You **WILL** need to modifiy the javascript file to match the locations that you set with the Addon.
-In order to run the javascript file you need one of the following on your browser.    
+In order to run the javascript file you need one of the following on your browser and to set them to access local file:// URLs.    
 https://tampermonkey.net/ (Recommended)    
 https://www.greasespot.net/    
 
