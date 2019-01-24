@@ -3,6 +3,7 @@ EDDiscovery Addon
 
 This writes files about system information and scanned body for easier reporting for the DW2 Geological Reports. Designed to work with the JavaScript file located [here](https://gist.github.com/SirTyler/0266c383c28a20ba084afc9f4fa11f8a).
 
+You can install this addon directly from EDDiscovery in their addon-manager.
 In order to manually install the .ACT Addon File for EDDiscovery you will need to place it in the EDDiscovery Actions Folder.
 >AppData\Local\EDDiscovery\Actions
 
